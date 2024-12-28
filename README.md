@@ -8,4 +8,5 @@ We go through the following steps: <br />
 4. Fine-tune on MIMIC IV dataset <br />
 5. Re-test on PubMedQA dataset and compare performance <br />
 6. Use elastic weight consolidation (EWC) to mitigate the effects of the catastrophic forgetting <br />
+
 Our results found catastrophic forgetting dropped accuracy from ~74% to ~36%, however EWC was unable to successfully mitigate the effects. <br />
