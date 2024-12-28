@@ -1,5 +1,5 @@
 # CatastrophicForgetting
-Mitigating Catastrophic Forgetting in Medical LLMs.
+Mitigating Catastrophic Forgetting in Medical LLMs. <br />
 This project attempts to first demonstrate and then mitigate catastrophic forgetting in medical-related large language models. <br />
 We go through the following steps: <br />
 1. Experiment with multiple LLM's like LLAMA and Bert around the 100m to 13b parameter range <br />
