@@ -10,3 +10,4 @@ We go through the following steps: <br />
 6. Use elastic weight consolidation (EWC) to mitigate the effects of the catastrophic forgetting <br />
 
 Our results found catastrophic forgetting dropped accuracy from ~74% to ~36%, however EWC was unable to successfully mitigate the effects. <br />
+Link to the full paper here: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5e77abae-12ee-43e9-8a91-8d60197b777a
